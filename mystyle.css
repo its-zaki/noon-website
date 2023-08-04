@@ -1,0 +1,254 @@
+
+*{
+    margin:0;
+    padding:0;
+    scroll-behavior: smooth;
+}
+.first-heading{
+    color: aqua ;
+    text-decoration: underline;
+}
+.header{
+    background-color: #feee00;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    
+}
+.deliver{
+    margin-left:10px;
+    margin-top: 20px;
+}
+.logo{
+    cursor: pointer;
+}
+
+.nav-deliver{
+    cursor: pointer;
+    
+}
+.nav-deliver:hover{
+    opacity: 0.6;
+    
+}
+.input-search{
+    width: 450px;
+    padding:5px;
+    margin: 16px;
+    border-radius: 5px;
+    padding-left: 20px;
+    outline: none;
+}
+.option{
+    margin-top: 20px;
+}
+.text{
+    font-weight: 700;
+    margin-left: 38px;
+}
+.banner1{
+   width: 717px; 
+   height: 150px;
+}
+.banner2{
+   width: 156.5px; 
+   height: 150px;
+}
+.banner3{
+   width: 156.5px; 
+   height: 150px;
+    
+}
+.arrow{
+    
+    width: 50px;
+    height: 50px;
+    margin-top: 50px;
+    margin-left: 0px   ;
+}
+.products{
+    background-color: #fff0be;
+    width: 100%;
+    height: 150px;
+}
+.product{
+    width: 68px;
+    margin-left: 16px;
+}
+.text:hover{
+    color: rgb(87, 85, 85);
+    cursor: pointer;
+}
+.second-category-div{
+    width: 35%;
+}
+.category-img{
+    width: 140px;
+    height: 120px;
+    
+    
+    
+}
+.category-img-1{
+    width: 140px;
+    height: 180px;
+
+    
+    
+    
+}
+.img3{
+    margin-top: 10px;
+}
+
+.categories{
+    background-color: #f8f9fa;
+}
+.first-category{
+    background-color: #ffffff;
+}
+
+.category-hdng{
+    font-weight: 500;
+    font-size: 20px;
+    color: rgb(61, 58, 58);
+    margin-left: 10px;
+}
+.category-hdng-2{
+    font-weight: 500;
+    font-size: 20px;
+    color: rgb(61, 58, 58);
+    margin-left: 40px;
+}
+.second-category{
+    background-color: #fcf49c;
+    padding: 10px;
+    margin-top: 0;
+    
+}
+.cat-img-p{
+    background-color: #ececec;
+    width: 140px;
+    height: fit-content;
+    padding: 0px 10px 10px 10px;  
+    font-size: xx-small;
+    margin-left: 10px;
+    border-radius: 5px;
+
+}
+.recommend-hdng{
+    margin: 20px;
+}
+.green-text{
+    color: #38ae04;
+}
+.express{
+    margin-top: 70px;
+    margin-left: 30px;
+    width: 70px;
+}
+.rate-btn{
+    color: #ffffff;
+    padding: 0 10px;
+    font-size: small;
+    margin-top: 70px;
+    margin-left: 30px;
+    border-radius: 50px;
+    background-color: #38ae04;
+}
+.express-p{
+    margin-top: 70px;
+    margin-right: 20px;
+
+}
+.express-div{
+    display: flex;
+    justify-content: space-between;
+}
+.be-well{
+    background-color: #fffdea;
+    margin-top: 40px;
+}
+.bewell-produts{
+    margin-top: 20px;
+}
+.be-well-produt{
+    width: 85px;
+    height: 147px;
+    margin-left: 15px;
+
+}
+.black-banner{
+    width: 100%;
+    height: 177px;
+    margin-top: 20px;
+}
+.deals{
+    margin-top: 20px;
+    background-color: #e1effa;
+}
+.deal-img{
+    width: 230px;
+    height: 150px;
+    margin-left: 10px;
+}
+/* trending section start  */
+.trending{
+    margin-top: 40px;
+}
+.heading{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+
+}
+.view-btn{
+    font-weight: 600;
+    background: none;
+    padding: 5px 10px;
+    border: 1px solid black;
+}
+.banner-yellow-div {
+    margin-top: 40px;
+}
+.yellow-banner{
+    margin: 10px;
+}
+/* women section start  */
+.hdng-and-btn{
+    margin-top: 20px;
+    
+}
+.category-products{
+    display: flex;
+    justify-content: space-evenly;
+}
+.product-image{
+    margin-top: 20px;
+    width: 129px;
+    height: 212px;
+}
+/* women section end  */
+/* acessories section start  */
+
+.acessories-image{
+    margin-top: 20px;
+    width: 129px;
+    height: 158px;
+}
+/* acessories section end  */
+/* about section start  */
+.about{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+
+/* about section end  */
+/* footer start  */
+.socail-div{
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-evenly;
+}
+/* footer end  */
